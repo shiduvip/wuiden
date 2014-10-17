@@ -369,11 +369,11 @@ border-radius: 0;
 .zhifangli{position:relative;height:622px}
 .zhifangli form{position:absolute; bottom:70px; right:45px;width:390px;overflow:hidden; }
 .zhifangli form .zhi{float:left;height:25px; width:240px;font-size:15px; padding-left:5px;margin-top:8px;}
-.zhifangli form .zhifang{float:left;display:block; width:124px; height:49px;margin-left:15px; background:url(../images/zhifangliimg.png) no-repeat }
+.zhifangli form .zhifang{float:left;display:block; width:124px; height:49px;margin-left:15px; background:url(./images/zhifangliimg.png) no-repeat }
 .zhuangdi{position:relative;height:622px}
 .zhuangdi form{position:absolute; bottom:70px; right:45px;width:390px;overflow:hidden; }
 .zhuangdi form .z{float:left;height:25px; width:240px;font-size:15px; padding-left:5px;margin-top:8px;}
-.zhuangdi form .zhuang{float:left;display:block; width:124px; height:49px;margin-left:15px; background:url(../images/zhifangliimg.png) no-repeat }
+.zhuangdi form .zhuang{float:left;display:block; width:124px; height:49px;margin-left:15px; background:url(./images/zhifangliimg.png) no-repeat }
 
 .yuanliao{ clear:both; border-bottom:1px dashed #ccc}
 .yuanliao img{ display:block;}

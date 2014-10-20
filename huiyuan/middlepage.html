@@ -1,0 +1,8 @@
+<script>
+function pseth() {
+    var iObj = parent.parent.document.getElementById('iframeB');  //A和main同域，所以可以访问节点
+    iObjH = parent.parent.frames["iframeB"].frames["iframeA"].location.hash;  //访问自己的location对象获取hash值
+    iObj.style.height = "130px";  //操作dom
+}
+pseth();
+</script>
